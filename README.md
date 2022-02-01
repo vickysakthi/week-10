@@ -3,4 +3,4 @@ The tower hanoi is a mathematic puzzle where we have three roads and disks.The o
 ## How To Run
 Click the make button to create the HANOI-TOWER,Then keep on the make move button to solve the puzzle.
 ## Future Improvement
-the project can be further enchanced by the 3D animation to the puzzle.
+The project can be further enchanced by the 3D animation to the puzzle.
